@@ -48,15 +48,17 @@ Each Arabic mental health question is first assessed for whether it contains con
 
 ### Sub-categories
 
+### Sub-categories
+
 | Main Category | Sub-category |
 |---|---|
-| Cultural | `Culture|Information` |
-| Cultural | `Culture|Values` |
-| Cultural | `Culture|Norms and Morals` |
-| Social | `Social|Relationship` |
-| Social | `Social|Demographics` |
-| Social | `Social|Life Satisfaction` |
-| Religious | `Religion` |
+| Cultural | Culture\|Information |
+| Cultural | Culture\|Values |
+| Cultural | Culture\|Norms and Morals |
+| Social | Social\|Relationship |
+| Social | Social\|Demographics |
+| Social | Social\|Life Satisfaction |
+| Religious | _ |
 
 ---
 

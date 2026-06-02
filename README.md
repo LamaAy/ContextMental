@@ -1,4 +1,4 @@
-# 🧠 ContextMental
+#  ContextMental
 
 **ContextMental: A Sociocultural Benchmark for Arabic Mental Health Understanding**
 
